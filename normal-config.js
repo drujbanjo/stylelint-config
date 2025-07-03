@@ -16,9 +16,6 @@ module.exports = {
     "block-no-empty": true,
     "unit-no-unknown": true,
     "property-no-unknown": true,
-    "selector-max-id": 0,
-    "selector-max-class": 5,
-    "max-nesting-depth": 3,
     "string-quotes": "double",
     "selector-pseudo-element-colon-notation": "double"
   },
